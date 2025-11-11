@@ -1,2 +1,2 @@
-# goit-markup-hw-02
-CSS homework
+# goit-markup-hw-03
+Flexbox homework 03
